@@ -1,5 +1,7 @@
 # AuroraPass — Password Generator (React + Vite)
 
+**Live Demo**: [aurora-pass.vercel.app](https://aurora-pass.vercel.app/)
+
 AuroraPass is a minimal, fast password generator built with React and Vite. It lets you quickly generate strong passwords, adjust length, include numbers and symbols, and copy with one click. A visual strength indicator helps you gauge the current configuration.
 
 ## Features
